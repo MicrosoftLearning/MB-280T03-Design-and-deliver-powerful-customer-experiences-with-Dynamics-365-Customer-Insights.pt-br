@@ -14,9 +14,9 @@ Se você estiver recebendo um locatário como parte de uma entrega de um treinam
 
 ## Exercício 1: Obter uma avaliação do Dynamics 365 Customer Insights
 ### Etapa 1: Avaliação do Dynamics 365 Customer Insights
-1. Em uma nova guia do navegador, navegue até https://dynamics.microsoft.com/dynamics-365-free-trial. No meio da tela, você verá dois botões: um para ver planos e preços, e o outro para experimentar gratuitamente. Selecione **Experimentar gratuitamente**.
+1. Em uma nova guia do navegador, navegue até https://dynamics.microsoft.com/dynamics-365-free-trial. No meio da tela, você verá dois botões: um para ver planos e preços, o outro para experimentar gratuitamente. Selecione **Experimentar gratuitamente**.
 2. Navegue até a caixa Dynamics 365 Customer Insights e selecione **Experimentar gratuitamente**. Insira a credencial de administrador do M365 fornecida e selecione **Iniciar avaliação gratuita.** (Se solicitado, deixe a região definida como Estados Unidos e insira 0123456789 em Número de telefone.) Selecione **Enviar.**
-3. Selecione **Iniciar avaliação**.
-4. Na tela de boas-vindas, selecione **Iniciar Customer Insights - Data.** O aplicativo do Customer Insights – O aplicativo baseado em modelo de dados será iniciado em uma nova guia. Agora você tem um ambiente de avaliação do Customer Insights – Journeys e do Customer Insights – Data.
+3. Selecione **Iniciar avaliação.**
+4. Na tela de boas-vindas, selecione **Iniciar Customer Insights - Data.** O aplicativo do Customer Insights – Data baseado em modelo será iniciado em uma nova guia. Agora você tem um ambiente de avaliação do Customer Insights – Journeys e do Customer Insights – Data.
 5. Em País/região, insira *Estados Unidos*. Selecione **Continuar**.
 6. Selecione **Iniciar avaliação** no banner de notificação. Aguarde a configuração do teste – isso pode levar alguns minutos. (Se você receber um pop-up que diz *Introdução*, selecione **Agora não.**)
